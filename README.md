@@ -7,3 +7,4 @@ test
 - [ ] four
 
 Do checklists only work in commits?
+Continuing the test.
